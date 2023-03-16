@@ -14,6 +14,10 @@ Blenderのマテリアルをクリーンアップする小さなプラグイン�
 
 
 
+
+
+
+
 Blender Switch Language
 
 Blender plugin Switch Language 1.0 is completed. It provides a shortcut to switch between Simplified Chinese, English, Traditional Chinese, and Japanese interfaces. Please install it like any other Blender plugin. After installation, you can use Ctrl+Shift+Alt+T (T stands for translation) to easily learn English tutorials, geometry nodes, Japanese anime tutorials, and compare different translations of Simplified Chinese, Traditional Chinese, and Japanese characters. Note: 1. The option to switch new data has been disabled to prevent errors caused by Chinese naming when using the Go B plugin. 2. Mac users can switch languages by clicking Command+Option+Shift+T.
